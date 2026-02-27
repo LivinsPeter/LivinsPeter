@@ -5,14 +5,13 @@
   Hi, I'm <strong>Peter Livins</strong>
 </h1>
 
-<h3>Full Stack Developer | MERN • Python • Flutter</h3>
+<h3>B.Tech CSE Student | C • Figma • Python</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
+    I'm a tech inthusiast passionate about coding and emerging technologies. I work with Python and C, building a strong foundation in both high-level problem solving and low-level system understanding. Alongside development, I explore UI/UX design using Figma, blending logic with creativity to craft intuitive digital experiences. I enjoy learning new tools, experimenting with ideas, and continuously pushing myself to build smarter, cleaner, and more impactful solutions.
   </p>
 
   <p>
@@ -25,9 +24,6 @@
 <h3>🌐 Socials</h3>
   
 <p align="left">
-  <a href="https://dev.to/peter">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
-  </a>
 
   <a href="https://discord.com/users/itz_livins">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
@@ -98,11 +94,7 @@
 
 ---
 
-## ❤️ Support Me
+## ❤️ Thanks for visiting.
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/midhun_mike">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
-  </a>
-</p>
+
 
